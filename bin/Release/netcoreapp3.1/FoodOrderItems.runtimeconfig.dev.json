@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Mai Tram\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Mai Tram\\.nuget\\packages"
+    ]
+  }
+}
